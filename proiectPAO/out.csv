@@ -1,0 +1,18 @@
+Adaugare student  Wed Jun 10 23:47:05 PDT 2020
+Adaugare departamente  Wed Jun 10 23:47:05 PDT 2020
+Adaugare lista studenti  Wed Jun 10 23:47:05 PDT 2020
+-------------------------------
+Creating thread named Thread-citire
+-------------------------------
+Starting Thread-citire
+Running Thread-citire
+Thread Thread-citire
+Thread Thread-citire exiting
+
+-------------------------------
+Creating thread named Thread-Afisare
+-------------------------------
+Starting Thread-Afisare
+Running Thread-Afisare
+Thread Thread-Afisare
+Thread Thread-Afisare exiting
